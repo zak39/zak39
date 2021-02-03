@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello there :simple_smile:
+### Hello there :smile:
 
 I am a Junior Full-Stack Developper since December 2020 and I am working on PHP and JavaScript.
 
@@ -33,7 +33,7 @@ Ooh and I like the DevOps :construction_worker:
 
 #### 🌱 Learning
 
-I am currently learning on these skills :
+I am currently learning these skills :
 
 - Design Pattern ;
 - Symfony ;
