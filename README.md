@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello there :smile:
+## Hello there :smile:
 
 I am a Full-Stack Developper since December 2020 and I am working on PHP and JavaScript.
 
 I like Symfony and Laravel :heart: :saxophone:
 
-#### :computer: My languages and tools
+### :computer: My languages and tools
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" width="32px" height="32px"/>
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" width="32px" height="32px" style="padding-right: 60px;"/>
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="32px" height="32px"/>
 
@@ -43,32 +43,32 @@ I like Symfony and Laravel :heart: :saxophone:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="32px" height="32px"/>
 
-#### :bar_chart: GitHub stats 
+### :bar_chart: GitHub stats 
 
 [![zak39's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=zak39)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![zak39's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=zak39&theme=dracula)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-### 🏗️ Projects
+## 🏗️ Projects
 
-#### Personal
+### Personal
 
 - [TodoList Funny](https://github.com/zak39/todolist-funny) a little todolist project coded in Vue
 - [Biblios](https://github.com/zak39/biblios) is a Symfony project for learning the framework
 
-#### School
+### School
 
 - [YopSante](https://gitlab.com/zak39/yopsante) is a school project to manage patients and doctors
 
-#### Arawa
+### Arawa
 
 - [Workspace](https://github.com/arawa/workspace) for Nextcloud
 - [Migrate S3 NC](https://github.com/arawa/migrate-s3-nc) is a migration data between a database and object storage
 
-#### Air France
+### Air France
 
 - Decomissioning automation with Ansible and Python
 
-### 🌐 Connect with me
+## 🌐 Connect with me
 
 [![Twitter](https://img.shields.io/badge/%40Z4kira-%231DA1F2?style=for-the-badge&logo=x)](https://twitter.com/Z4kira)
 [![LinkedIn](https://img.shields.io/badge/Baptiste%20Fotia-0e76a8?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/baptiste-fotia/)
