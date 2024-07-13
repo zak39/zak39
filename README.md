@@ -53,7 +53,7 @@ I like Symfony and Laravel :heart: :saxophone:
 ### Personal
 
 - [TodoList Funny](https://github.com/zak39/todolist-funny) a little todolist project coded in Vue
-- [Biblios](https://github.com/zak39/biblios) is a Symfony project for learning the framework
+- [Biblios](https://github.com/zak39/biblios) is a Symfony project to learn the framework
 
 ### School
 
