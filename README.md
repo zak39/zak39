@@ -21,7 +21,10 @@ I like Symfony and Laravel :heart: :saxophone:
 
 ### :computer: My languages and tools
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" width="32px" height="32px" style="padding-right: 60px;"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/stacks/symfony-mark-white.svg">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" width="32px" height="32px" style="padding-right: 60px;"/>
+</picture>
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="32px" height="32px"/>
 
@@ -31,13 +34,19 @@ I like Symfony and Laravel :heart: :saxophone:
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="32px" height="32px"/>
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32px" height="32px"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/stacks/github-mark-white.svg">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="32px" height="32px" style="padding-right: 60px;"/>
+</picture>
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="32px" height="32px"/>
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="32px" height="32px"/>
 
-<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="32px" height="32px"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./img/stacks/ansible-mark-white.svg">
+  <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" width="32px" height="32px"/>
+</picture>
 
 <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="32px" height="32px"/>
 
