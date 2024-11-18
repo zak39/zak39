@@ -61,8 +61,12 @@ I like Symfony and Laravel :heart: :saxophone:
 
 ### Personal
 
-- [TodoList Funny](https://github.com/zak39/todolist-funny) a little todolist project coded in Vue
+- [Json Resume](https://github.com/zak39/resume-symfony) is an online [resume](https://zakode.dev) built with Symfony, Tailwind and DaisyUI, created to explore and learn the use of AssetMapper in Symfony
+- [Address Book SF](https://github.com/zak39/address-book-sf) is a small app built with Symfony 7 and Bootstrap, designed to manage multiple contacts while improving my Symfony expertise
+- [Dark Force SF](https://github.com/zak39/dark-force-sf) is a small app that displays characters, spaceships, or planets from the Star Wars universe using [SWAPI API](https://swapi.dev/)
+- [Photo Gallery](https://github.com/zak39/photo-galery) is a Photo Gallery application built with Symfony 7 and Bootstrap, created as a learning project to deepen my understanding of Symfony
 - [Biblios](https://github.com/zak39/biblios) is a Symfony project to learn the framework
+- [TodoList Funny](https://github.com/zak39/todolist-funny) a little todolist project coded in Vue
 
 ### School
 
